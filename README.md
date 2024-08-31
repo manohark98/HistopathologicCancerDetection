@@ -1,2 +1,2 @@
 # HistopathologicCancerDetection
-Histopathologic Cancer Detection using Image Classification
+Histopathologic Cancer Detection using CNN Model 
